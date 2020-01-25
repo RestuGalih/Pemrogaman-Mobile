@@ -1,0 +1,23 @@
+<resources>
+    <string name="change_language">Change Language</string>
+    <string name="app_name">MyClass</string>
+    <string name="no">ISBN</string>
+    <string name="nama">Title </string>
+    <string name="ttl">Year of Publication</string>
+    <string name="sex">Publisher</string>
+    <string name="address">author</string>
+    <string name="save">save</string>
+    <string name="update">Update</string>
+    <string name="informasi">This applications show the list of book in Polines Library</string>
+    <string name="owner">Created By : EKA FEBRIYANTI X RESTU GALIH K.</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email">Email : elibrarypolines@gmail.com</string>
+    <string name="jeneng">Created by : </string>
+    <string name="isi_jeneng">EKA FEBRIYANTI X RESTU GALIH K</string>
+    <string name="NIM">3.34.18.0.09   ||   3.34.18.0.19</string>
+    <string name="profile">Profile</string>
+    <string name="ss">MyLibrary</string>
+    <string name="lihat_data">List of Books</string>
+    <string name="masukkan_data">Input Data</string>
+    <string name="about">About</string>
+</resources>
